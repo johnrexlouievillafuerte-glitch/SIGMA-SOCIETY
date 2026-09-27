@@ -1,0 +1,6 @@
+{
+  "name": "SIGMA - Institute for Advanced Statistics & Research",
+  "description": "Statistical Innovation and Growth for Mathematical Advancement Society (SIGMA) at University of Rizal System - Cainta Campus. Pioneering statistical innovation, empirical research, and computational mathematics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
